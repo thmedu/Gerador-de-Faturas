@@ -1,18 +1,6 @@
-![alt text](image.png)
-# Invoice Generator
+#  Generator de Fatura
 
-## 📇 Índice
-
-- [Invoice Generator](#invoice-generator)
-  - [📇 Índice](#-índice)
-  - [📜 Descrição do Projeto](#-descrição-do-projeto)
-  - [✨ Funcionalidades](#-funcionalidades)
-  - [🛠 Tecnologias Utilizadas](#-tecnologias-utilizadas)
-  - [📂 Estrutura do Projeto](#-estrutura-do-projeto)
-  - [📥 Instalação](#-instalação)
-  - [🚀 Como Usar](#-como-usar)
-  - [🤝 Contribuição](#-contribuição)
-  - [📄 Licença](#-licença)
+![Post minimalista marketing digital roxo branco e azul](https://github.com/user-attachments/assets/fabc1447-90fe-4fc5-8956-c60dc9c83906)
 
 ## 📜 Descrição do Projeto
 
